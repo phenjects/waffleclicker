@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(255, 174, 0);
+  font-family: "Comic Sans MS";
+}
+
+.waffleDiv {
+  text-align: center;
+}
+
+.WaffleMain {
+  width: 15%;
+}
+
+.upgradeDiv {
+  text-align: end;
+}
+
+.UpgradeOne {
+  width: 20%;
+}
+
+.UpgradeTwo {
+  top: 90px;
+  right: 7px;
+  position: absolute;
+  width: 19.9%;
+}
