@@ -43,7 +43,6 @@ document.getElementById("UpgradeTwo").onclick = function () {
     update();
   }
 };
-console.log("penis");
 
 /* 
     reminder so you don't forget
